@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\kontroluyg\obj\Debug\kontroluyg.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\kontroluyg\obj\Debug\kontroluyg.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\kontroluyg\obj\Debug\kontroluyg.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\kontroluyg\bin\Debug\kontroluyg.exe.config
+C:\Users\Asus\source\repos\kontroluyg\bin\Debug\kontroluyg.exe
+C:\Users\Asus\source\repos\kontroluyg\bin\Debug\kontroluyg.pdb
+C:\Users\Asus\source\repos\kontroluyg\obj\Debug\kontroluyg.exe
+C:\Users\Asus\source\repos\kontroluyg\obj\Debug\kontroluyg.pdb
+C:\Users\Asus\source\repos\kontroluyg\obj\Debug\kontroluyg.Form1.resources
